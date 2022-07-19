@@ -1,0 +1,30 @@
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.exe
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.deps.json
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.runtimeconfig.json
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.pdb
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.AssemblyInfoInputs.cache
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.AssemblyInfo.cs
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\refint\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.pdb
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.genruntimeconfig.cache
+C:\Users\nancy\Desktop\repos\CODEWARS KATA\CODEWARS KATA\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\ref\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.exe
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.deps.json
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.runtimeconfig.json
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\bin\Debug\net6.0\FactoryPatternVehicles.pdb
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.AssemblyInfoInputs.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.AssemblyInfo.cs
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\refint\FactoryPatternVehicles.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.pdb
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\FactoryPatternVehicles.genruntimeconfig.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternVehicles\FactoryPatternVehicles\obj\Debug\net6.0\ref\FactoryPatternVehicles.dll
